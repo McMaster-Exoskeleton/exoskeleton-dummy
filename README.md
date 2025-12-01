@@ -1,4 +1,3 @@
-:wq# exoskeleton-dummy
+# exoskeleton-dummy
 Testing
-trying to create a merge conflict
-trying to create another merge conflict
+This repo is for testing purposes only 
